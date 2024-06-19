@@ -4,5 +4,8 @@
 - [NextJs](https://nextjs.org/learn?utm_source=next-site&utm_medium=navbar&utm_campaign=docs)
 - [Fountn design](https://fountn.design/)
 - [Figma](https://www.figma.com/)
+- [Nextjs|crash course|video](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=6s&ab_channel=ProgrammingwithMosh)
 - [ 12 min react](https://www.youtube.com/watch?v=wIyHSOugGGw)
 - [Canva](https://www.canva.com/en_in/)
+- [react-bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
+- [Tailwind css](https://tailwindcss.com/docs/guides/create-react-app)
