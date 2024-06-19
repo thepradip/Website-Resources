@@ -4,4 +4,5 @@
 - [NextJs](https://nextjs.org/learn?utm_source=next-site&utm_medium=navbar&utm_campaign=docs)
 - [Fountn design](https://fountn.design/)
 - [Figma](https://www.figma.com/)
+- [ 12 min react](https://www.youtube.com/watch?v=wIyHSOugGGw)
 - [Canva](https://www.canva.com/en_in/)
